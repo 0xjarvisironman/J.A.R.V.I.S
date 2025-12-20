@@ -179,9 +179,17 @@ pip install -r requirements.txt
 Create a `.env` file (DO NOT commit this):
 
 ```env
+# =========================
+# ELEVENLABS
+# =========================
 ELEVENLABS_API_KEY=your_api_key_here
 ELEVENLABS_VOICE_ID=your_voice_id_here
-TTS_PROVIDER=elevenlabs
+
+# =========================
+# OPTIONAL
+# =========================
+OPENAI_API_KEY=optional
+OPENROUTER_API_KEY=optional
 ```
 
 ### 5️⃣ Run JARVIS
