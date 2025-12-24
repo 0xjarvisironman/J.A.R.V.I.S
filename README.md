@@ -231,6 +231,7 @@ Emotion-aware responses
 Status: ✅ Live / Working
 
 ### 🔹 PHASE 1 — PUBLIC ALPHA - Completed and Live
+Blockchain Information, whales details, Kols Details, Latest fomo and hype coin information etc.
 Goal: Stability + community usability
 Jarvis Ring animation sync (Listening / Speaking / Idle)
 Config file support (jarvis.config.json)
@@ -239,6 +240,7 @@ Plugin-ready architecture
 Improved error handling
 Outcome:
 Open-source users can run Jarvis reliably on their system.
+Token Creation on Pump.fun
 
 ### 🔹 PHASE 2 — INTELLIGENCE UPGRADE - Upcoming
 Goal: Jarvis becomes a true assistant
